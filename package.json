@@ -2,6 +2,7 @@
   "name": "bloom-filter",
   "version": "0.1.0",
   "description": "Experimental bloom filter module",
+  "main": "exists.js",
   "scripts": {
     "test": "node test"
   },
