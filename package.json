@@ -1,0 +1,19 @@
+{
+  "name": "bloom-filter",
+  "version": "0.1.0",
+  "description": "Experimental bloom filter module",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Small Hadron Collider",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/howsecureismypassword/modules-bloom-filter.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bloom": "git://github.com/jasondavies/bloomfilter.js.git",
+    "ramda": "^0.9.0"
+  }
+}
